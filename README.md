@@ -1,13 +1,13 @@
 # vvm
 
-A Go application. Replace this description with your project's purpose and features.
+Valkey Version Manager
 
 ## Getting Started
 
 1. Clone the repository:
 
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/valkey-io/vvm.git
    cd vvm
    ```
 
